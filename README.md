@@ -101,6 +101,13 @@ npm install
 npm start
 ```
 
+### Frontend
+```bash
+cd frontend
+npm install
+npm start
+```
+
 ## 📁 Estrutura de Pastas
 ---
 
@@ -143,7 +150,9 @@ Adicionar imagens do front
 
 📌 Conclusão
 ---
-Este projeto foi desenvolvido com foco educacional para consolidar conhecimentos em desenvolvimento full stack, autenticação com JWT, rotas protegidas, validação de formulários e consumo de API externa. A aplicação simula um ambiente real de produção, com conceitos modernos de desenvolvimento web.
+O CineRate foi criado como parte de uma jornada prática no universo do desenvolvimento full stack. Mais do que um simples projeto acadêmico, ele representa a integração de tecnologias modernas com conceitos fundamentais, como autenticação via JWT, rotas protegidas, validação de formulários e consumo de APIs externas.
+
+Durante o desenvolvimento, buscamos simular desafios reais do mercado, aplicando boas práticas e explorando ferramentas que são amplamente utilizadas em aplicações profissionais. O resultado é uma plataforma funcional, intuitiva e segura — ideal tanto para aprendizado quanto para servir como base em projetos futuros.
 
 
 👥 Contribuidores
