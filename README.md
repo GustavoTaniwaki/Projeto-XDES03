@@ -146,7 +146,7 @@ cinerate/
 | Comunicação HTTP | GET, POST, PUT, DELETE | ✅ |
 | CRUD completo | Implementado | ✅ |
 | E-mail único | Validação implementada | ✅ |
-| Uso de API externa | OMDb API] | ✅ |
+| Uso de API externa | OMDb API | ✅ |
 | Versionamento Git | Repositório público | ✅ |
 | Documentação | README com detalhes | ✅ |
 
