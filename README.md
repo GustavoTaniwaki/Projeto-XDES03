@@ -103,8 +103,14 @@ npm start
 
 ### Frontend
 ```bash
+
+# Acesse a pasta frontend
 cd frontend
+
+# Instale as dependências
 npm install
+
+# Execute o servidor
 npm start
 ```
 
